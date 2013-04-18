@@ -1,0 +1,83 @@
+body {
+	font-family:Arial, sans-serif;
+	font-size:14px;
+}
+
+td, th {
+	vertical-align:top;
+}
+
+#newReview td{
+	padding:7px;
+}
+
+.odd td{
+	background-color:#d0ed82;
+	}
+
+.cat1, .cat2, .cat3, .cat4, .cat5, .cat6, .pers1, .pers2, .head1, .head2, #name1, #name2{
+	position:absolute;
+}
+
+
+.cat1{
+	top:200px;
+	left:7px;
+}
+
+.cat2{
+	top:240px;
+	left:90px;
+}
+
+.cat3{
+	top:280px;
+	left:200px;
+}
+
+.cat4{
+	top:320px;
+	left:380px;
+}
+
+.cat5{
+	top:360px;
+	left:560px;
+}
+
+.cat6{
+	top:400px;
+	left:660px;
+}
+
+.pers1{
+	left:200px;
+}
+
+.pers2{
+	left:400px;
+}
+
+.head1{
+	left:7px;
+	width:200px;
+}
+
+.head2{
+	display:none;
+}
+
+#donate{
+	position:relative;
+	top:310px;
+}
+
+#name1{
+	top:170px;
+	left:200px;
+}
+
+#name2{
+	top:170px;
+	left:400px;
+}

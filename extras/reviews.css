@@ -1,0 +1,40 @@
+body {
+	font-family:Arial, sans-serif;
+	font-size:14px;
+}
+
+td, th {
+	vertical-align:top;
+}
+
+#newReview td{
+	padding:7px;
+}
+
+.odd td{
+	background-color:#d0ed82;
+	}
+
+.taste{
+	width:60px;
+}
+
+.price{
+	width:80px;
+}
+
+.convloc{
+	width:150px;
+}
+
+.descprod{
+	width:160px;
+}
+
+.service{
+	width:65px;
+}
+
+.comments{
+	width:400px;
+}
